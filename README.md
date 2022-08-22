@@ -20,8 +20,8 @@ This is a solution to the [Advice generator app challenge on Frontend Mentor](ht
 
 ### Links
 
-- Solution URL: [Click here]()
-- Live Site URL: [Click here]()
+- Solution URL: [Click here](https://www.frontendmentor.io/solutions/advice-generator-UAjpcVub4g)
+- Live Site URL: [Click here](https://undefined-fm-advice-generator.netlify.app/)
 
 ## My process
 
